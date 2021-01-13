@@ -12,7 +12,7 @@
 
 ## Project
 
-- View this working example to see the end goal
+- View this working example to see the end goal: [Memory Game]("https://complete-memory-game.herokuapp.com/")
 - Take a little bit of time to think about how you want to implement your application, the features you want to implement, which components you need, and how to structure your application.
 - You can choose to replicate with numbers, or any other group of items (e.g. images, colors, words)
 
